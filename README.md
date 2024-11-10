@@ -1,2 +1,1 @@
-# Proyecto Final
- Proyecto Final programación para internet, 
+Proyecto final de la materia programación para internet
